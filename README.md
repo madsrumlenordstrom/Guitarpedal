@@ -11,3 +11,4 @@ I using an acryllic plate as the lid on an aluminium enclosure, so the PCB is vi
 ![Pedal](pictures/IMG_1532.jpeg)
 
 More pictures can be found in the pictures folder.
+Personally I don't play any intrusments. This projects was made as a gift for family and friends. People who have been gifted this pedal like and generally think it sounds good, so I am quite satisfied with the result.
